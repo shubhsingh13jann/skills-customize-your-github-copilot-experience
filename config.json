@@ -58,6 +58,20 @@
           "type": "csv"
         }
       ]
+    },
+    {
+      "id": "fastapi-restapi",
+      "title": "Building REST APIs with FastAPI",
+      "description": "Build a REST API using FastAPI with routing and JSON responses.",
+      "path": "assignments/fastapi-restapi",
+      "dueDate": "2026-06-15",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "main.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
