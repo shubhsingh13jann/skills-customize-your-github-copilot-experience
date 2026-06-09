@@ -72,6 +72,25 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "python-file-automation",
+      "title": "Python File Automation",
+      "description": "Automate text file processing by reading, cleaning, and saving file summaries.",
+      "path": "assignments/python-file-automation",
+      "dueDate": "2026-07-01",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        },
+        {
+          "name": "Sample Notes",
+          "file": "sample_notes.txt",
+          "type": "text"
+        }
+      ]
     }
   ]
 }

@@ -1,0 +1,9 @@
+Shopping list:
+- apples
+- milk
+
+Homework:
+- math
+- science
+
+Thank you!
